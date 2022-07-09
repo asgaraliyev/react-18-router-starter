@@ -1,5 +1,5 @@
 import "./Charts.scss"
 function Charts(){
-    return <h1>Charts</h1>
+    return <p className="text-xs font-bold text-sm">Charts</p>
 }
 export default Charts

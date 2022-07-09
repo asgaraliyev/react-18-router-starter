@@ -1,7 +1,6 @@
 module.exports = {
     content: [
-      "./pages/**/*.{js,ts,jsx,tsx}",
-      "./layouts/**/*.{js,ts,jsx,tsx}",
+      "./src/**/*.{js,ts,jsx,tsx}",
     ],
     darkMode: "class",
     theme: {
@@ -29,5 +28,4 @@ module.exports = {
     //   },
     // ],
   };
-  Footer
   
